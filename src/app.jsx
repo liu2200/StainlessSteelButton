@@ -21,16 +21,6 @@ function App() {
           Button
         </Button>
       </div>
-      <footer>
-        Shiny Button &bull;{" "}
-        <a
-          href="https://github.com/CherryNo1"
-          target="_blank"
-          rel="noopener"
-        >
-          CherryNo1
-        </a>
-      </footer>
     </>
   );
 }
